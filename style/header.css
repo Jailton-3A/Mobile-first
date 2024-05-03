@@ -28,11 +28,15 @@
     display: none;
     position: absolute;
     top: 100%;
+<<<<<<< HEAD
     width: 60vw;
+=======
+>>>>>>> f88ba3a223abe83b560c8d88a93a130cd306eb5f
 }
 
 .container_botao:checked ~ .lista-menu{
     display: block;
+<<<<<<< HEAD
 }
 
 .lista-menu_titulo, .lista-menu_item{
@@ -55,4 +59,6 @@
 
 .container_botao{
     display: none;
+=======
+>>>>>>> f88ba3a223abe83b560c8d88a93a130cd306eb5f
 }
