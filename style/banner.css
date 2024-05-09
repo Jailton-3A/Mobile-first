@@ -1,6 +1,5 @@
 .banner{
     background: var(--azul-degrade);
-    font-family: var(--fonte-principal);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
